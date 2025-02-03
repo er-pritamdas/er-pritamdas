@@ -51,28 +51,27 @@
 
 
 <!-- Introduction About Me  -->
-<h3 align="center">
+<h3>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <br>
-  <br>
-  I'm Pritam Das, Computer Engineer From India. 
-  <br>
-  <br>
-  🔬 I'm currently pursuing my Bachelor degree from SRM University.
-  <br>
-  <br>
-  💻 I love writing code and learn anythings about it.
-  <br>
-  <br>
-  📚 I’m currently learning how to build Dynamic Website.
-  <br>
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/er-pritamdas/er-pritamdas/issues" title="Issues">➡️</a>
-  <br>
-  <br>
-  📫 How to reach me: <a href="mailto: pd2657@srmist.edu.in"> ✉️.
 </h3>
+
+<h2>🚀 About Me</h2>
+
+<div>
+    <p>👋 Hi, I'm <strong>Pritam</strong>.
+  💼 Working as a <strong>CCSS-SDWAN Engineer</strong>
+  💻 I focus on <strong>networking, security, and automation</strong>
+  ⚡ Passionate about <strong>DevOps</strong> and the <strong>MERN stack</strong>
+  🚀 Love working with <strong>CI/CD pipelines</strong>
+  ☁️ Exploring <strong>cloud-native technologies</strong>
+  🛠️ Automating workflows and infrastructure
+  💡 Enjoy building full-stack apps with
+  🖥️ <strong>MongoDB, Express, React, and Node.js</strong>
+  🔗 My journey blends <strong>networking, coding, and DevOps</strong>
+  ⚙️ Striving for efficient and resilient systems
+  📚 Always learning and contributing to open-source!</p>
+</div>
 
 
 <!-- My Frameworks And Abilities -->
