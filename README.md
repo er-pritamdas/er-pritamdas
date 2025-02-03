@@ -1,7 +1,7 @@
 <!-- Profiles Viewa and Visitor Views -->
 <div align="center">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hacker-404-error.hacker-404-error">
-<img align="left" src="https://komarev.com/ghpvc/?username=hacker-404-error&label=PROFILE+VIEWS">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=er-pritamdas.er-pritamdas">
+<img align="left" src="https://komarev.com/ghpvc/?username=er-pritamdas&label=PROFILE+VIEWS">
 </div>
 
 
@@ -68,7 +68,7 @@
   📚 I’m currently learning how to build Dynamic Website.
   <br>
   <br>
-  💬 Ask me anything about from <a href="https://github.com/hacker-404-error/hacker-404-error/issues" title="Issues">➡️</a>
+  💬 Ask me anything about from <a href="https://github.com/er-pritamdas/er-pritamdas/issues" title="Issues">➡️</a>
   <br>
   <br>
   📫 How to reach me: <a href="mailto: pd2657@srmist.edu.in"> ✉️.
@@ -128,11 +128,11 @@
 
 <p align=center>
   <div align=center>
-    <a href="https://github.com/hacker-404-error?tab=repositories">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=hacker-404-error&theme=tokyonight_duo"/>
+    <a href="https://github.com/er-pritamdas?tab=repositories">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=er-pritamdas&theme=tokyonight_duo"/>
     </a>
-    <a href="https://github.com/hacker-404-error?tab=repositories">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=hacker-404-error&theme=github_dark&show_icons=true" />
+    <a href="https://github.com/er-pritamdas?tab=repositories">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=er-pritamdas&theme=github_dark&show_icons=true" />
     </a>
   </div>
   
@@ -140,8 +140,8 @@
 <br><br><br><br>
 
   <div align=center>
-    <a href="https://github.com/hacker-404-error?tab=repositories">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacker-404-error&layout=compact&langs_count=10&theme=github_dark">
+    <a href="https://github.com/er-pritamdas?tab=repositories">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=er-pritamdas&layout=compact&langs_count=10&theme=github_dark">
     </a>
   </div>
   
@@ -149,7 +149,7 @@
   <br>
   <br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=hacker-404-error&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=er-pritamdas&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 
@@ -162,35 +162,35 @@
 <br>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/hacker-404-error/THE_COPTER_GAME" title="COPER GAME">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=THE_COPTER_GAME&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/er-pritamdas/THE_COPTER_GAME" title="COPER GAME">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=THE_COPTER_GAME&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
-  <a align="right" href="https://github.com/hacker-404-error/SnakeGame" title="SNAKE GAME">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=SnakeGame&theme=react&border_color=61dafb&border_radius=10">
+  <a align="right" href="https://github.com/er-pritamdas/SnakeGame" title="SNAKE GAME">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=SnakeGame&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
 <br><br><br><br><br><br>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/hacker-404-error/CSS-Cheat-Sheet" title="CHEAT SHEET">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=CSS-Cheat-Sheet&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/er-pritamdas/CSS-Cheat-Sheet" title="CHEAT SHEET">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=CSS-Cheat-Sheet&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
-  <a align="right" href="https://github.com/hacker-404-error/Welcome_To_MyOnlineMeal" title="WELCOME TO ONLINE MEAL">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=Welcome_To_MyOnlineMeal&theme=react&border_color=61dafb&border_radius=10">
+  <a align="right" href="https://github.com/er-pritamdas/Welcome_To_MyOnlineMeal" title="WELCOME TO ONLINE MEAL">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=Welcome_To_MyOnlineMeal&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
 <br><br><br><br><br><br>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/hacker-404-error/Data-Structure-In-CPP" title="DATA STRUCTURE IN CPP">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=Data-Structure-In-CPP&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/er-pritamdas/Data-Structure-In-CPP" title="DATA STRUCTURE IN CPP">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=Data-Structure-In-CPP&theme=react&border_color=61dafb&border_radius=10">
   </a>  
-  <a align="right" href="https://github.com/hacker-404-error/ML-Supervised-Learning--Regression-" title="ML SUPERVISED LEARNING">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hacker-404-error&repo=ML-Supervised-Learning--Regression-&theme=react&border_color=61dafb&border_radius=10">
+  <a align="right" href="https://github.com/er-pritamdas/ML-Supervised-Learning--Regression-" title="ML SUPERVISED LEARNING">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=ML-Supervised-Learning--Regression-&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
@@ -199,26 +199,26 @@
 
  <!-- SHOW MORE REPO -->
 <h4 align="center">
-  <a href="https://github.com/hacker-404-error?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/er-pritamdas?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 <br><br><br>
   
 <!-- TROPHIES AND AWARDS -->
 <h4 align="center">
-    <a href="https://github.com/hacker-404-error">
-      <img src="https://github-profile-trophy.vercel.app/?username=hacker-404-error&theme=algolia">
+    <a href="https://github.com/er-pritamdas">
+      <img src="https://github-profile-trophy.vercel.app/?username=er-pritamdas&theme=algolia">
     </a>
 </h4>
   
 <!-- <h4 align="center">
-    <a href="https://github.com/hacker-404-error">
+    <a href="https://github.com/er-pritamdas">
       <img src="https://github.githubassets.com/images/modules/profile/profile-joined-github-dark.svg">
     </a>
 </h4> -->
 
 <div align="center">
-    <a href="https://github.com/hacker-404-error">
+    <a href="https://github.com/er-pritamdas">
       <img src="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
     </a>
 </div>
