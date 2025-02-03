@@ -31,15 +31,15 @@
 
 <!-- Social Media -->
 <div align="center">
-  <h3 style="display:inline-block;margin-right:50px;font-size:20px;">
+  <code>
     <code><a href="https://www.linkedin.com/in/pritam-das-7489ab223/" title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"> LinkedIn</a></code>
-  </h3>
-  <h3 style="display:inline-block;margin-right:50px;font-size:20px;">
+  </code>
+  <code>
     <code><a href="https://www.hackerrank.com/er_pritamdas22?hr_r=1" title="HackerRank Profile"><img width="30" src="images/hackerrank.png"> HackerRank</a></code>
-  </h3>
-  <h3 style="display:inline-block;font-size:20px;">
+  </code>
+  <code>
     <code><a href="https://www.instagram.com/er.pritamdas/" title="Instagram Profile"><img width="30" src="images/instagram.svg"> Instagram</a></code>
-  </h3>
+  </code>
 </div>
 
 <br>
@@ -63,7 +63,7 @@
 </h2>
 
 <div>
-    <p style="font-size:15px;">👋 Hi, I'm <strong>Pritam</strong>.
+    <h3 style="font-size:15px;">👋 Hi, I'm <strong>Pritam</strong>.
   🖥️ Computer Engineer in <strong>India</strong>
   💼 Working as a <strong>CCSS-SDWAN Engineer</strong>
   💻 I focus on <strong>networking, security, and automation</strong>
@@ -75,7 +75,7 @@
   🖥️ <strong>MongoDB, Express, React, and Node.js</strong>
   🔗 My journey blends <strong>networking, coding, and DevOps</strong>
   ⚙️ Striving for efficient and resilient systems
-  📚 Always learning and contributing to open-source!</p>
+  📚 Always learning and contributing to open-source!</h3>
 </div>
 
 
