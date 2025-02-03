@@ -29,17 +29,18 @@
 <br>
 
 
-<!-- Social Media  -->
-<h3 align="center">
-  <code><a href="https://www.linkedin.com/in/pritam-das-7489ab223/" title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"> LinkedIn</a></code>
-</h3>
-<h3 align="left">
-  <code><a href="https://www.hackerrank.com/er_pritamdas22?hr_r=1" title="HackerRank Profile"><img width="30" src="images/hackerrank.png"> HackerRank</a></code>
-</h3>
-<h3 align="right">
-  <code><a href="https://www.instagram.com/er.pritamdas/" title="Instagram Profile"><img width="30" src="images/instagram.svg"> Instagram</a></code>
-</h3>
-
+<!-- Social Media -->
+<div align="center">
+  <h3 style="display: inline-block; margin-right: 50px; font-size:20px">
+    <code><a href="https://www.linkedin.com/in/pritam-das-7489ab223/" title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"> LinkedIn</a></code>
+  </h3>
+  <h3 style="display: inline-block; margin-right: 50px; font-size:20px">
+    <code><a href="https://www.hackerrank.com/er_pritamdas22?hr_r=1" title="HackerRank Profile"><img width="30" src="images/hackerrank.png"> HackerRank</a></code>
+  </h3>
+  <h3 style="display: inline-block; font-size:20px">
+    <code><a href="https://www.instagram.com/er.pritamdas/" title="Instagram Profile"><img width="30" src="images/instagram.svg"> Instagram</a></code>
+  </h3>
+</div>
 
 <br>
 <br>
@@ -48,7 +49,7 @@
 <!-- gif for programmers -->
 
 <div align="center">
-<img align="right" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="290">
+<img align="right" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="300">
 <!-- <img align="left" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="290"> -->
 </div>
 
@@ -62,7 +63,7 @@
 </h2>
 
 <div>
-    <p>👋 Hi, I'm <strong>Pritam</strong>.
+    <p style="font-size:15px;">👋 Hi, I'm <strong>Pritam</strong>.
   🖥️ Computer Engineer in <strong>India</strong>
   💼 Working as a <strong>CCSS-SDWAN Engineer</strong>
   💻 I focus on <strong>networking, security, and automation</strong>
@@ -152,7 +153,7 @@
   <br>
   <br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=er-pritamdas&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+[![Pritam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=er-pritamdas&theme=react-dark)](https://github.com/er-pritamdas/github-readme-activity-graph)
 </p>
 
 
