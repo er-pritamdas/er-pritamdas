@@ -57,19 +57,19 @@
 </h2>
 
 <div>
-    <h4>👋 Hi, I'm <strong>Pritam</strong>.</h4>
-  <p>🖥️ Computer Engineer in <strong>India</strong></p>
-  <p>💼 Working as a <strong>CCSS-SDWAN Engineer</strong></p>
-  <p>💻 I focus on <strong>networking, security, and automation</strong></p>
-  <p>⚡ Passionate about <strong>DevOps</strong> and the <strong>MERN stack</strong></p>
-  <p>🚀 Love working with <strong>CI/CD pipelines</strong></p>
-  <p>☁️ Exploring <strong>cloud-native technologies</strong></p>
-  <p>🛠️ Automating workflows and infrastructure</p>
-  <p>💡 Enjoy building full-stack apps with</p>
-  <p>🖥️ <strong>MongoDB, Express, React, and Node.js</strong></p>
-  <p>🔗 My journey blends <strong>networking, coding, and DevOps</strong></p>
-  <p>⚙️ Striving for efficient and resilient systems</p>
-  <p>📚 Always learning and contributing to open-source!</p>
+    <h4>👋 Hi, I'm <strong>Pritam</strong>.
+  🖥️ Computer Engineer in <strong>India</strong>
+  💼 Working as a <strong>CCSS-SDWAN Engineer</strong>
+  💻 I focus on <strong>networking, security, and automation</strong>
+  ⚡ Passionate about <strong>DevOps</strong> and the <strong>MERN stack</strong>
+  🚀 Love working with <strong>CI/CD pipelines</strong>
+  ☁️ Exploring <strong>cloud-native technologies</strong>
+  🛠️ Automating workflows and infrastructure
+  💡 Enjoy building full-stack apps with
+  🖥️ <strong>MongoDB, Express, React, and Node.js</strong>
+  🔗 My journey blends <strong>networking, coding, and DevOps</strong>
+  ⚙️ Striving for efficient and resilient systems
+  📚 Always learning and contributing to open-source!</h4>
 </div>
 
 <br>
