@@ -57,7 +57,7 @@
 </h2>
 
 <div>
-    <h3 style="font-size:15px;">👋 Hi, I'm <strong>Pritam</strong>.
+    <h2 style="font-size:15px;">👋 Hi, I'm <strong>Pritam</strong>.
   🖥️ Computer Engineer in <strong>India</strong>
   💼 Working as a <strong>CCSS-SDWAN Engineer</strong>
   💻 I focus on <strong>networking, security, and automation</strong>
@@ -69,7 +69,7 @@
   🖥️ <strong>MongoDB, Express, React, and Node.js</strong>
   🔗 My journey blends <strong>networking, coding, and DevOps</strong>
   ⚙️ Striving for efficient and resilient systems
-  📚 Always learning and contributing to open-source!</h3>
+  📚 Always learning and contributing to open-source!</h2>
 </div>
 
 
