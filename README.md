@@ -51,15 +51,15 @@
 
 
 <!-- Introduction About Me  -->
-<h3>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h3>
 
-<h2>🚀 About Me</h2>
+<h2>
+🚀 Hey There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h2>
 
 <div>
     <p>👋 Hi, I'm <strong>Pritam</strong>.
+  🖥️ Computer Engineer in <strong>India</strong>
   💼 Working as a <strong>CCSS-SDWAN Engineer</strong>
   💻 I focus on <strong>networking, security, and automation</strong>
   ⚡ Passionate about <strong>DevOps</strong> and the <strong>MERN stack</strong>
