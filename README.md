@@ -31,13 +31,13 @@
 
 <!-- Social Media -->
 <div align="center">
-  <h3 style="display: inline-block; margin-right: 50px; font-size:20px;">
+  <h3 style="display:inline-block;margin-right:50px;font-size:20px;">
     <code><a href="https://www.linkedin.com/in/pritam-das-7489ab223/" title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"> LinkedIn</a></code>
   </h3>
-  <h3 style="display: inline-block; margin-right: 50px; font-size:20px;">
+  <h3 style="display:inline-block;margin-right:50px;font-size:20px;">
     <code><a href="https://www.hackerrank.com/er_pritamdas22?hr_r=1" title="HackerRank Profile"><img width="30" src="images/hackerrank.png"> HackerRank</a></code>
   </h3>
-  <h3 style="display: inline-block; font-size:20px;">
+  <h3 style="display:inline-block;font-size:20px;">
     <code><a href="https://www.instagram.com/er.pritamdas/" title="Instagram Profile"><img width="30" src="images/instagram.svg"> Instagram</a></code>
   </h3>
 </div>
