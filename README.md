@@ -33,19 +33,20 @@
 <br>
 
 <!-- About Me Section -->
+
 ## 🚀 Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-- 👋 I'm **Pritam**, a Computer Engineer from **India**  
-- 💼 Working as a **Cloud and Cyber Security Services (CCSS) -SDWAN Engineer @Tata**  
-- 💻 I focus on **networking, SDWAN, security, and automation**  
-- ⚡ Passionate about **DevOps** and the **MERN stack**  
-- 🚀 Love working with **CI/CD pipelines**  
-- ☁️ Exploring **cloud-native technologies**  
-- 🛠️ Automating workflows and infrastructure  
-- 💡 Enjoy building full-stack apps with **MongoDB, Express, React, and Node.js**  
-- 🔗 My journey blends **networking, coding, and DevOps**  
-- ⚙️ Striving for **efficient and resilient systems**  
-- 📚 Always learning and contributing to **open-source**!  
+- 👋 I'm **Pritam**, a Computer Engineer from **India**
+- 💼 Working as a **Cloud and Cyber Security Services (CCSS) -SDWAN Engineer @Tata**
+- 💻 I focus on **networking, SDWAN, security, and automation**
+- ⚡ Passionate about **DevOps** and the **MERN stack**
+- 🚀 Love working with **CI/CD pipelines**
+- ☁️ Exploring **cloud-native technologies**
+- 🛠️ Automating workflows and infrastructure
+- 💡 Enjoy building full-stack apps with **MongoDB, Express, React, and Node.js**
+- 🔗 My journey blends **networking, coding, and DevOps**
+- ⚙️ Striving for **efficient and resilient systems**
+- 📚 Always learning and contributing to **open-source**!
 
 ---
 
@@ -73,24 +74,8 @@
     <td align="center"><img title="MongoDB" height="50" src="images/mongodb.svg"></td>
     <td align="center"><img title="MySQL" height="50" src="images/mysql.svg"></td>
     <td align="center"><img title="Tailwind CSS" height="50" src="images/Tailwind.svg"></td>
-  </tr>
-</table>
-
-<br>
-
-<h2 align="center">🛠️ Tools & Platforms</h2>
-<table align="center">
-  <tr>
     <td align="center"><img title="Git" height="50" src="images/git-original.svg"></td>
-    <td align="center"><img title="GitHub" height="50" src="images/github.svg"></td>
-    <td align="center"><img title="GitLab" height="50" src="images/Gitlab.svg"></td>
-    <td align="center"><img title="npm" height="50" src="images/npm.svg"></td>
-    <td align="center"><img title="Postman" height="50" src="images/Postman.svg"></td>
-    <td align="center"><img title="Jira" height="50" src="images/jira.svg"></td>
-    <td align="center"><img title="Visual Studio Code" height="50" src="images/vscode.png"></td>
-    <td align="center"><img title="JSON" height="50" src="images/json.svg"></td>
-    <td align="center"><img title="PuTTY" height="50" src="images/PuTTY.svg"></td>
-    <td align="center"><img title="Terraform" height="50" src="images/Terraform.svg"></td>
+    <td align="center"><img title="Express" height="50" src="images/Express.svg"></td>
   </tr>
 </table>
 
@@ -99,17 +84,37 @@
 <h2 align="center">☁️ Cloud & DevOps</h2>
 <table align="center">
   <tr>
-    <td align="center"><img title="Ansible" height="50" src="images/Ansible.svg"></td>
     <td align="center"><img title="vSphere" height="50" src="images/vSphere.svg"></td>
+    <td align="center"><img title="Azure" height="50" src="images/Azure.svg"></td>
+    <td align="center"><img title="Azure" height="50" src="images/AWS.svg"></td>
+    <td align="center"><img title="Ansible" height="50" src="images/Ansible.svg"></td>
     <td align="center"><img title="Linux" height="50" src="images/Linux.svg"></td>
     <td align="center"><img title="Jenkins" height="50" src="images/Jenkins.svg"></td>
     <td align="center"><img title="Ubuntu" height="50" src="images/Ubuntu.svg"></td>
+    <td align="center"><img title="Docker" height="50" src="images/Docker.svg"></td>
+    <td align="center"><img title="Terraform" height="50" src="images/Terraform.svg"></td>
+    <td align="center"><img title="Jira" height="50" src="images/jira.svg"></td>
 
   </tr>
 </table>
 
+<br>
+
+<h2 align="center">🛠️ Tools & Platforms</h2>
+<table align="center">
+  <tr>
+    <td align="center"><img title="GitHub" height="50" src="images/github.svg"></td>
+    <td align="center"><img title="GitLab" height="50" src="images/GitLab.svg"></td>
+    <td align="center"><img title="npm" height="50" src="images/npm.svg"></td>
+    <td align="center"><img title="Postman" height="50" src="images/Postman.svg"></td>
+    <td align="center"><img title="Visual Studio Code" height="50" src="images/vscode.png"></td>
+    <td align="center"><img title="JSON" height="50" src="images/json.svg"></td>
+    <td align="center"><img title="PuTTY" height="50" src="images/PuTTY.svg"></td>
+  </tr>
+</table>
 
 <br>
+
 <!-- GitHub Stats -->
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
@@ -130,8 +135,6 @@
         <img width=200 src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
     </a>
 </p>
-
-
 
 <!-- GitHub Activity Graph -->
 <p align="center">
