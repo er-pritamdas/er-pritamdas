@@ -89,7 +89,7 @@
     <td align="center"><img title="Jira" height="40" src="images/jira.svg"></td>
     <td align="center"><img title="Visual Studio Code" height="40" src="images/vscode.png"></td>
     <td align="center"><img title="JSON" height="40" src="images/json.svg"></td>
-    <td align="center"><img title="Putty" height="40" src="images/Putty.svg"></td>
+    <td align="center"><img title="PuTTY" height="40" src="images/PuTTY.svg"></td>
     <td align="center"><img title="Terraform" height="40" src="images/Terraform.svg"></td>
   </tr>
 </table>
