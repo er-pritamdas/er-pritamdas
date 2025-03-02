@@ -9,9 +9,9 @@
 
 <!-- Fun Programmer GIF -->
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <img src="https://octodex.github.com/images/stormtroopocat.png" width="100">
+    <img src="https://octodex.github.com/images/stormtroopocat.png" width="150">
     <img src="https://readme-typing-svg.herokuapp.com/?color=%23F70F44&width=450&height=70&lines=Hello,+There!+👋;This+is+Pritam+Das....;Nice+to+meet+you!&center=true&size=30">
-    <img src="https://octodex.github.com/images/Fintechtocat.png" width="100">
+    <img src="https://octodex.github.com/images/Fintechtocat.png" width="150">
 </div>
 
 <br>
