@@ -49,7 +49,7 @@
 
 ---
 
-<h2 align="center">🖥️ Programming Languages</h2>
+<h2 align="center">🖥️Languages</h2>
 <table align="center">
   <tr>
     <td align="center"><img title="C" height="40" src="images/c.svg"></td>
@@ -118,7 +118,7 @@
         <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=er-pritamdas&theme=tokyonight_duo"/>
     </a>
     <a href="https://github.com/er-pritamdas?tab=repositories">
-        <img width=390 src="https://github-readme-stats.vercel.app/api?username=er-pritamdas&theme=github_dark&show_icons=true" />
+        <img width=370 src="https://github-readme-stats.vercel.app/api?username=er-pritamdas&theme=github_dark&show_icons=true" />
     </a>
 </p>
 
@@ -144,11 +144,11 @@
 <h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
 
 <div align="center">
-    <a href="https://github.com/er-pritamdas/THE_COPTER_GAME">
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=THE_COPTER_GAME&theme=react&border_color=61dafb&border_radius=10">
+    <a href="https://github.com/er-pritamdas/CloudMERNOps_Lab">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=CloudMERNOps_Lab&theme=react&border_color=61dafb&border_radius=10">
     </a>
-    <a href="https://github.com/er-pritamdas/SnakeGame">
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=SnakeGame&theme=react&border_color=61dafb&border_radius=10">
+    <a href="https://github.com/er-pritamdas/Progress-Pulse">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=Progress-Pulse&theme=react&border_color=61dafb&border_radius=10">
     </a>
 </div>
 
@@ -156,8 +156,8 @@
     <a href="https://github.com/er-pritamdas/CSS-Cheat-Sheet">
         <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=CSS-Cheat-Sheet&theme=react&border_color=61dafb&border_radius=10">
     </a>
-    <a href="https://github.com/er-pritamdas/Welcome_To_MyOnlineMeal">
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=Welcome_To_MyOnlineMeal&theme=react&border_color=61dafb&border_radius=10">
+    <a href="https://github.com/er-pritamdas/Pritam-Portfolio-Website">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=Pritam-Portfolio-Website&theme=react&border_color=61dafb&border_radius=10">
     </a>
 </div>
 

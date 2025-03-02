@@ -40,3 +40,4 @@
     <!-- <code><img title="Flask" height="30" src="../images/flask.png"></code> -->
 </p>
 
+[TechIcons](https://techicons.dev/icons)
