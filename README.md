@@ -52,13 +52,13 @@
 <h2 align="center">🖥️Languages</h2>
 <table align="center">
   <tr>
-    <td align="center"><img title="C" height="40" src="images/c.svg"></td>
-    <td align="center"><img title="C++" height="40" src="images/cpp.svg"></td>
-    <td align="center"><img title="Python" height="40" src="images/python-original.svg"></td>
-    <td align="center"><img title="Javascript" height="40" src="images/javascript.svg"></td>
-    <td align="center"><img title="HTML5" height="40" src="images/html5.svg"> </td>
-    <td align="center"><img title="CSS" height="40" src="images/css.svg"> </td>
-    <td align="center"><img title="SASS" height="40" src="images/sass.svg"> </td>
+    <td align="center"><img title="C" height="50" src="images/c.svg"></td>
+    <td align="center"><img title="C++" height="50" src="images/cpp.svg"></td>
+    <td align="center"><img title="Python" height="50" src="images/python-original.svg"></td>
+    <td align="center"><img title="Javascript" height="50" src="images/javascript.svg"></td>
+    <td align="center"><img title="HTML5" height="50" src="images/html5.svg"> </td>
+    <td align="center"><img title="CSS" height="50" src="images/css.svg"> </td>
+    <td align="center"><img title="SASS" height="50" src="images/sass.svg"> </td>
   </tr>
 </table>
 
@@ -67,12 +67,12 @@
 <h2 align="center">🚀 Technologies & Frameworks</h2>
 <table align="center">
   <tr>
-    <td align="center"><img title="React" height="40" src="images/react-original.svg"></td>
-    <td align="center"><img title="Node.js" height="40" src="images/node.svg"></td>
-    <td align="center"><img title="Vite" height="40" src="images/Vite.svg"></td>
-    <td align="center"><img title="MongoDB" height="40" src="images/mongodb.svg"></td>
-    <td align="center"><img title="MySQL" height="40" src="images/mysql.svg"></td>
-    <td align="center"><img title="Tailwind CSS" height="40" src="images/Tailwind.svg"></td>
+    <td align="center"><img title="React" height="50" src="images/react-original.svg"></td>
+    <td align="center"><img title="Node.js" height="50" src="images/node.svg"></td>
+    <td align="center"><img title="Vite" height="50" src="images/Vite.svg"></td>
+    <td align="center"><img title="MongoDB" height="50" src="images/mongodb.svg"></td>
+    <td align="center"><img title="MySQL" height="50" src="images/mysql.svg"></td>
+    <td align="center"><img title="Tailwind CSS" height="50" src="images/Tailwind.svg"></td>
   </tr>
 </table>
 
@@ -81,16 +81,16 @@
 <h2 align="center">🛠️ Tools & Platforms</h2>
 <table align="center">
   <tr>
-    <td align="center"><img title="Git" height="40" src="images/git-original.svg"></td>
-    <td align="center"><img title="GitHub" height="40" src="images/github.svg"></td>
-    <td align="center"><img title="GitLab" height="40" src="images/Gitlab.svg"></td>
-    <td align="center"><img title="npm" height="40" src="images/npm.svg"></td>
-    <td align="center"><img title="Postman" height="40" src="images/Postman.svg"></td>
-    <td align="center"><img title="Jira" height="40" src="images/jira.svg"></td>
-    <td align="center"><img title="Visual Studio Code" height="40" src="images/vscode.png"></td>
-    <td align="center"><img title="JSON" height="40" src="images/json.svg"></td>
-    <td align="center"><img title="PuTTY" height="40" src="images/PuTTY.svg"></td>
-    <td align="center"><img title="Terraform" height="40" src="images/Terraform.svg"></td>
+    <td align="center"><img title="Git" height="50" src="images/git-original.svg"></td>
+    <td align="center"><img title="GitHub" height="50" src="images/github.svg"></td>
+    <td align="center"><img title="GitLab" height="50" src="images/Gitlab.svg"></td>
+    <td align="center"><img title="npm" height="50" src="images/npm.svg"></td>
+    <td align="center"><img title="Postman" height="50" src="images/Postman.svg"></td>
+    <td align="center"><img title="Jira" height="50" src="images/jira.svg"></td>
+    <td align="center"><img title="Visual Studio Code" height="50" src="images/vscode.png"></td>
+    <td align="center"><img title="JSON" height="50" src="images/json.svg"></td>
+    <td align="center"><img title="PuTTY" height="50" src="images/PuTTY.svg"></td>
+    <td align="center"><img title="Terraform" height="50" src="images/Terraform.svg"></td>
   </tr>
 </table>
 
@@ -99,11 +99,11 @@
 <h2 align="center">☁️ Cloud & DevOps</h2>
 <table align="center">
   <tr>
-    <td align="center"><img title="Ansible" height="40" src="images/Ansible.svg"></td>
-    <td align="center"><img title="vSphere" height="40" src="images/vSphere.svg"></td>
-    <td align="center"><img title="Linux" height="40" src="images/Linux.svg"></td>
-    <td align="center"><img title="Jenkins" height="40" src="images/Jenkins.svg"></td>
-    <td align="center"><img title="Ubuntu" height="40" src="images/Ubuntu.svg"></td>
+    <td align="center"><img title="Ansible" height="50" src="images/Ansible.svg"></td>
+    <td align="center"><img title="vSphere" height="50" src="images/vSphere.svg"></td>
+    <td align="center"><img title="Linux" height="50" src="images/Linux.svg"></td>
+    <td align="center"><img title="Jenkins" height="50" src="images/Jenkins.svg"></td>
+    <td align="center"><img title="Ubuntu" height="50" src="images/Ubuntu.svg"></td>
 
   </tr>
 </table>
