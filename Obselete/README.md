@@ -82,35 +82,35 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Luxi+Mono&color=%237BF700&size=29&center=true&vCenter=true&multiline=true&width=900&height=100&lines=%F0%9F%94%A5+Languages+%26+Frameworks+%26+Tools+%26+Abilities+%F0%9F%94%A5">
   </a>
 <p align="center">
-<code><img title="C" height="40" src="images/c.svg"></code>
-<code><img title="C++" height="40" src="images/cpp.svg"></code>
-<code><img title="C#" height="40" src="images/cSharp.svg"></code>
-<code><img title="Python" height="40" src="images/python-original.svg"></code>
-<code><img title="Django" height="40" src="images/django.png"></code>
-<code><img title="Javascript" height="40" src="images/javascript.svg"></code>
-<code><img title="Problem Solving" height="40" src="images/problemSolving.png"></code>
-<code><img title="HTML5" height="40" src="images/html5.svg"></code>
-<code><img title="CSS" height="40" src="images/css.svg"></code>
-<code><img title="SASS" height="40" src="images/sass.svg"></code>
-<!--   <code><img title="Gulp" height="30" src="images/gulp.svg"></code> -->
-<code><img title="React" height="40" src="images/react-original.svg"></code>
-<!--   <code><img title="Redux" height="30" src="images/redux.svg"></code> -->
-<code><img title="AngularJS" height="40" src="images/angularjs.png"></code>
-<code><img title="Git" height="40" src="images/git-original.svg"></code>
-<!--   <code><img title=".NetCore" height="30" src="images/dotnetcore.svg"></code> -->
-<!--   <code><img title="PostgreSQL" height="30" src="images/postgresql.svg"></code> -->
-<code><img title="Visual Studio Code" height="40" src="images/vscode.png"></code>
-<code><img title="Microsoft Visual Studio" height="40" src="images/visualstudio.png"></code>
-<code><img title="JQuery" height="40" src="images/jquery-original.svg"></code>
-<code><img title="Java" height="40" src="images/java-original.svg"></code>
-<code><img title="JSON" height="40" src="images/json.svg"></code>
-<!--   <code><img title="Unity" height="30" src="images/unity3d.svg"></code> -->
-<!--   <code><img title="Android" height="30" src="images/android.svg"></code> -->
-<code><img title="GitHub" height="40" src="images/github.svg"></code>
-<code><img title="MySQL" height="40" src="images/mysql.svg"></code>
-<!--   <code><img title="npm" height="30" src="images/npm.svg"></code> -->
-<code><img title="PHP" height="40" src="images/php.svg"></code>
-<!--   <code><img title="Flask" height="30" src="images/flask.png"></code> -->
+<code><img title="C" height="40" src="../images/c.svg"></code>
+<code><img title="C++" height="40" src="../images/cpp.svg"></code>
+<code><img title="C#" height="40" src="../images/cSharp.svg"></code>
+<code><img title="Python" height="40" src="../images/python-original.svg"></code>
+<code><img title="Django" height="40" src="../images/django.png"></code>
+<code><img title="Javascript" height="40" src="../images/javascript.svg"></code>
+<code><img title="Problem Solving" height="40" src="../images/problemSolving.png"></code>
+<code><img title="HTML5" height="40" src="../images/html5.svg"></code>
+<code><img title="CSS" height="40" src="../images/css.svg"></code>
+<code><img title="SASS" height="40" src="../images/sass.svg"></code>
+<!--   <code><img title="Gulp" height="30" src="../images/gulp.svg"></code> -->
+<code><img title="React" height="40" src="../images/react-original.svg"></code>
+<!--   <code><img title="Redux" height="30" src="../images/redux.svg"></code> -->
+<code><img title="AngularJS" height="40" src="../images/angularjs.png"></code>
+<code><img title="Git" height="40" src="../images/git-original.svg"></code>
+<!--   <code><img title=".NetCore" height="30" src="../images/dotnetcore.svg"></code> -->
+<!--   <code><img title="PostgreSQL" height="30" src="../images/postgresql.svg"></code> -->
+<code><img title="Visual Studio Code" height="40" src="../images/vscode.png"></code>
+<code><img title="Microsoft Visual Studio" height="40" src="../images/visualstudio.png"></code>
+<code><img title="JQuery" height="40" src="../images/jquery-original.svg"></code>
+<code><img title="Java" height="40" src="../images/java-original.svg"></code>
+<code><img title="JSON" height="40" src="../images/json.svg"></code>
+<!--   <code><img title="Unity" height="30" src="../images/unity3d.svg"></code> -->
+<!--   <code><img title="Android" height="30" src="../images/android.svg"></code> -->
+<code><img title="GitHub" height="40" src="../images/github.svg"></code>
+<code><img title="MySQL" height="40" src="../images/mysql.svg"></code>
+<!--   <code><img title="npm" height="30" src="../images/npm.svg"></code> -->
+<code><img title="PHP" height="40" src="../images/php.svg"></code>
+<!--   <code><img title="Flask" height="30" src="../images/flask.png"></code> -->
 </p>
 
 

@@ -35,9 +35,9 @@
 <!-- About Me Section -->
 ## 🚀 Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-- 👋 Hi, I'm **Pritam**, a Computer Engineer from **India**  
-- 💼 Working as a **CCSS-SDWAN Engineer**  
-- 💻 I focus on **networking, security, and automation**  
+- 👋 I'm **Pritam**, a Computer Engineer from **India**  
+- 💼 Working as a **Cloud and Cyber Security Services (CCSS) -SDWAN Engineer @Tata**  
+- 💻 I focus on **networking, SDWAN, security, and automation**  
 - ⚡ Passionate about **DevOps** and the **MERN stack**  
 - 🚀 Love working with **CI/CD pipelines**  
 - ☁️ Exploring **cloud-native technologies**  
@@ -48,23 +48,66 @@
 - 📚 Always learning and contributing to **open-source**!  
 
 ---
+
+<h2 align="center">🖥️ Programming Languages</h2>
+<table align="center">
+  <tr>
+    <td align="center"><img title="C" height="40" src="images/c.svg"></td>
+    <td align="center"><img title="C++" height="40" src="images/cpp.svg"></td>
+    <td align="center"><img title="Python" height="40" src="images/python-original.svg"></td>
+    <td align="center"><img title="Javascript" height="40" src="images/javascript.svg"></td>
+    <td align="center"><img title="HTML5" height="40" src="images/html5.svg"> </td>
+    <td align="center"><img title="CSS" height="40" src="images/css.svg"> </td>
+    <td align="center"><img title="SASS" height="40" src="images/sass.svg"> </td>
+  </tr>
+</table>
+
 <br>
-<!-- Technologies & Tools -->
-<h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
-<p align="center">
-    <code><img title="C" height="40" src="images/c.svg"></code>
-    <code><img title="C++" height="40" src="images/cpp.svg"></code>
-    <code><img title="C#" height="40" src="images/cSharp.svg"></code>
-    <code><img title="Python" height="40" src="images/python-original.svg"></code>
-    <code><img title="Django" height="40" src="images/django.png"></code>
-    <code><img title="JavaScript" height="40" src="images/javascript.svg"></code>
-    <code><img title="React" height="40" src="images/react-original.svg"></code>
-    <code><img title="AngularJS" height="40" src="images/angularjs.png"></code>
-    <code><img title="Git" height="40" src="images/git-original.svg"></code>
-    <code><img title="GitHub" height="40" src="images/github.svg"></code>
-    <code><img title="MySQL" height="40" src="images/mysql.svg"></code>
-    <code><img title="PHP" height="40" src="images/php.svg"></code>
-</p>
+
+<h2 align="center">🚀 Technologies & Frameworks</h2>
+<table align="center">
+  <tr>
+    <td align="center"><img title="React" height="40" src="images/react-original.svg"></td>
+    <td align="center"><img title="Node.js" height="40" src="images/node.svg"></td>
+    <td align="center"><img title="Vite" height="40" src="images/vite.svg"></td>
+    <td align="center"><img title="MongoDB" height="40" src="images/mongodb.svg"></td>
+    <td align="center"><img title="MySQL" height="40" src="images/mysql.svg"></td>
+    <td align="center"><img title="Tailwind CSS" height="40" src="images/tailwind.svg"></td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">🛠️ Tools & Platforms</h2>
+<table align="center">
+  <tr>
+    <td align="center"><img title="Git" height="40" src="images/git-original.svg"></td>
+    <td align="center"><img title="GitHub" height="40" src="images/github.svg"></td>
+    <td align="center"><img title="GitLab" height="40" src="images/gitlab.svg"></td>
+    <td align="center"><img title="npm" height="40" src="images/npm.svg"></td>
+    <td align="center"><img title="Postman" height="40" src="images/postman.svg"></td>
+    <td align="center"><img title="Jira" height="40" src="images/jira.svg"></td>
+    <td align="center"><img title="Visual Studio Code" height="40" src="images/vscode.png"></td>
+    <td align="center"><img title="JSON" height="40" src="images/json.svg"></td>
+    <td align="center"><img title="Putty" height="40" src="images/putty.svg"></td>
+    <td align="center"><img title="Terraform" height="40" src="images/terraform.svg"></td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">☁️ Cloud & DevOps</h2>
+<table align="center">
+  <tr>
+    <td align="center"><img title="Ansible" height="40" src="images/ansible.svg"></td>
+    <td align="center"><img title="vSphere" height="40" src="images/vSphere.svg"></td>
+    <td align="center"><img title="Linux" height="40" src="images/linux.svg"></td>
+    <td align="center"><img title="Jenkins" height="40" src="images/jenkins.svg"></td>
+    <td align="center"><img title="Ubuntu" height="40" src="images/ubuntu.svg"></td>
+
+  </tr>
+</table>
+
 
 <br>
 <!-- GitHub Stats -->
