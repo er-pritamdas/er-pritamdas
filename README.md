@@ -75,7 +75,7 @@
     <td align="center"><img title="MySQL" height="50" src="images/mysql.svg"></td>
     <td align="center"><img title="Tailwind CSS" height="50" src="images/Tailwind.svg"></td>
     <td align="center"><img title="Git" height="50" src="images/git-original.svg"></td>
-    <td align="center"><img title="Express" height="50" src="images/Express.svg"></td>
+    <td align="center"><img title="Express" height="50" src="images/express.svg"></td>
   </tr>
 </table>
 
