@@ -91,7 +91,7 @@
     <td align="center"><img title="Linux" height="50" src="images/Linux.svg"></td>
     <td align="center"><img title="Jenkins" height="50" src="images/Jenkins.svg"></td>
     <td align="center"><img title="Ubuntu" height="50" src="images/Ubuntu.svg"></td>
-    <td align="center"><img title="Docker" height="50" src="images/Docker.svg"></td>
+    <td align="center"><a href="https://github.com/er-pritamdas/CloudMERNOps_Lab/tree/main/Docker"><img title="Docker" height="50" src="images/Docker.svg"></a></td>
     <td align="center"><img title="Terraform" height="50" src="images/Terraform.svg"></td>
     <td align="center"><img title="Jira" height="50" src="images/jira.svg"></td>
 
