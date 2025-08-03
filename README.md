@@ -59,7 +59,7 @@
     <td align="center"><img title="Javascript" height="50" src="/images/javascript.svg"></td>
     <td align="center"><img title="HTML5" height="50" src="/images/html5.svg"></td>
     <td align="center"><img title="CSS" height="50" src="/images/css.svg"></td>
-    <td align="center"><img title="SASS" height="50" src="/images/sass.svg"></td>
+    <td align="center"><img title="SASS" height="50" src="images/sass.png"></td>
   </tr>
 </table>
 
