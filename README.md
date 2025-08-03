@@ -73,7 +73,7 @@
     <td align="center"><img title="Vite" height="50" src="images/vite.png" alt="Vite"></td>
     <td align="center"><img title="MongoDB" height="50" src="images/mongodb.png" alt="MongoDB"></td>
     <td align="center"><img title="MySQL" height="50" src="images/mysql.png" alt="MySQL"></td>
-    <td align="center"><img title="Tailwind CSS" height="50" src="images/Tailwind.png" alt="Tailwind CSS"></td>
+    <td align="center"><img title="Tailwind CSS" height="50" src="images/tailwind.png" alt="Tailwind CSS"></td>
     <td align="center"><img title="Git" height="50" src="images/git.png" alt="Git"></td>
     <td align="center"><img title="Express" height="50" src="images/express.png" alt="Express"></td>
   </tr>
