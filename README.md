@@ -55,11 +55,11 @@
   <tr>
     <td align="center"><img title="C" height="50" src="images/c.svg"></td>
     <td align="center"><img title="C++" height="50" src="images/cpp.svg"></td>
-    <td align="center"><img title="Python" height="50" src="images/python.svg"></td>
+    <!-- <td align="center"><img title="Python" height="50" src="images/python.svg"></td> -->
     <td align="center"><img title="Javascript" height="50" src="images/javascript.svg"></td>
     <td align="center"><img title="HTML5" height="50" src="images/html5.svg"> </td>
     <td align="center"><img title="CSS" height="50" src="images/css.svg"> </td>
-    <td align="center"><img title="SASS" height="50" src="images/sass.svg"> </td>
+    <!-- <td align="center"><img title="SASS" height="50" src="images/sass.svg"> </td> -->
   </tr>
 </table>
 
