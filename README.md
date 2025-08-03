@@ -70,7 +70,7 @@
   <tr>
     <td align="center"><img title="React" height="50" src="images/react.png" alt="React"></td>
     <td align="center"><img title="Node.js" height="50" src="images/node.png" alt="Node.js"></td>
-    <td align="center"><img title="Vite" height="50" src="images/Vite.png" alt="Vite"></td>
+    <td align="center"><img title="Vite" height="50" src="images/vite.png" alt="Vite"></td>
     <td align="center"><img title="MongoDB" height="50" src="images/mongodb.png" alt="MongoDB"></td>
     <td align="center"><img title="MySQL" height="50" src="images/mysql.png" alt="MySQL"></td>
     <td align="center"><img title="Tailwind CSS" height="50" src="images/Tailwind.png" alt="Tailwind CSS"></td>
