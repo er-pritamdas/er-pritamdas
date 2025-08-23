@@ -18,7 +18,7 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
     <img src="https://octodex.github.com/images/stormtroopocat.png" width="150" alt="Stormtroopocat">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&width=450&height=70&lines=Hello,+There!+👋;This+is+Pritam+Das...;Nice+to+meet+you!&center=true&size=30" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&width=450&height=70&lines=SD-WAN+Automation+Engineer;Network+Engineer;Full+Stack+Engineer;AI+Automation+Engineer;DevOps+Engineer" alt="Typing SVG">
     <img src="https://octodex.github.com/images/Fintechtocat.png" width="150" alt="Fintechtocat">
 </div>
 
