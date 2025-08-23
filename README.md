@@ -5,7 +5,6 @@
 
 <div align="center">
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=er-pritamdas.er-pritamdas" alt="Visitor Badge">
-    <span align="center" style="font-size:28px; font-weight:bold; color:#36BCF7;">👋 Hi, I'm Pritam Das</span>
     <img align="left" src="https://komarev.com/ghpvc/?username=er-pritamdas&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
 
