@@ -21,7 +21,7 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
     <img src="https://octodex.github.com/images/stormtroopocat.png" width="150" alt="Stormtroopocat">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&width=600&height=80&lines=SD-WAN+%26+SASE+Automation+Engineer;Network+Engineer;MERN+Stack+Full+Stack+Engineer;AI+Automation+Engineer;DevOps+Engineer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&width=600&height=80&lines=SD-WAN+%26+SASE+Automation+Engineer;Network+Engineer;MERN+Stack+Full+Stack+Engineer;AI+Automation+Engineer;DevOps+Engineer" alt="Typing SVG">
     <img src="https://octodex.github.com/images/Fintechtocat.png" width="150" alt="Fintechtocat">
 </div>
 
