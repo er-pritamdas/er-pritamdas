@@ -139,12 +139,10 @@
 <td width="50%">
 
 ### 🚀 CloudMERNOps Lab
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=CloudMERNOps_Lab&theme=tokyonight&hide_border=true)](https://github.com/er-pritamdas/CloudMERNOps_Lab)
 
-### 🎨 CSS Cheat Sheet
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=CSS-Cheat-Sheet&theme=tokyonight&hide_border=true)](https://github.com/er-pritamdas/CSS-Cheat-Sheet)
+### 🤖 AI Automation
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=AI-Automation&theme=tokyonight&hide_border=true)]([https://github.com/er-pritamdas/Progress-Pulse](https://github.com/er-pritamdas/AI-Automation))
 
 </td>
 <td width="50%">
@@ -152,9 +150,7 @@
 ### 📈 Progress Pulse
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=Progress-Pulse&theme=tokyonight&hide_border=true)](https://github.com/er-pritamdas/Progress-Pulse)
 
-
 ### 💼 Portfolio Website
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=er-pritamdas&repo=Pritam-Portfolio-Website&theme=tokyonight&hide_border=true)](https://github.com/er-pritamdas/Pritam-Portfolio-Website)
 
 </td>
