@@ -98,16 +98,6 @@
 
 ---
 
-<div align="center">
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
 <!-- Trophies -->
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
@@ -117,12 +107,12 @@
     </a>
 </p>
 
+---
+
 <div align="center">
-    <h3>💬 Let's Connect and Build Something Amazing Together!</h3>
-    <p>
-        <em>"Code is poetry written in logic"</em> ✨
-    </p>
-    
-**Thanks for visiting my profile! Have a great day!** 🚀
+
+### ✍️ Today's Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
